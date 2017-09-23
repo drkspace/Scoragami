@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>1952 -- 2</title>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/football/pro/results.nsf/Weeks/1952-02?OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+
+<form action="">
+<table CELLPADDING=8 width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td width="13%" bgcolor="#E0F1FF"><div align="center"><b><BR>Site Pages</b><br>
+<a href="/football"><b><u><font color="#0000FF">Home</font></u></b></a><br>
+<a href="/football/site-contents.html"><b><u><font color="#0000FF">Contents</font></u></b></a><a href="/football/site-index.html"></a><br>
+<a href="/football/site-index.html"><b><u><font color="#0000FF">Index</font></u></b></a><br>
+<br>
+<hr width="95%" size="5" align="center" noshade style="color:#000080; "><br>
+<a href="/football/pro/results.nsf"><b><u>Games</u></b></a><br>
+<br>
+<hr width="95%" size="5" align="center" noshade style="color:#000080; "><br>
+<b>1952</b><br>
+<b><B></b><A HREF="/football/pro/standings.nsf/Seasons/1952">Standings</A><BR><A HREF="/football/pro/stats.nsf/By/Season?OpenDocument&Season=1952">Stats</A><BR><A HREF="/football/pro/rosters.nsf/By/Season?OpenDocument&Season=1952">Rosters</A><BR><A HREF="/football/pro/results.nsf/By/Season?OpenDocument&Season=1952">Games</A></B><br>
+<b><BR></b></div></td><td width="87%"><b><i><font size="6">1952 Week 2</font></i></b><br>
+<br>
+<UL>
+<LI><A HREF="/football/pro/results.nsf/Teams/1952-chc">Chicago Cardinals</A> 21, <A HREF="/football/pro/results.nsf/Teams/1952-chi">Chicago Bears</A> 10<LI><A HREF="/football/pro/results.nsf/Teams/1952-cle">Cleveland Browns</A> 21, <A HREF="/football/pro/results.nsf/Teams/1952-pit">Pittsburgh Steelers</A> 20<LI><A HREF="/football/pro/results.nsf/Teams/1952-det">Detroit Lions</A> 17, <A HREF="/football/pro/results.nsf/Teams/1952-lam">Los Angeles Rams</A> 14<LI><A HREF="/football/pro/results.nsf/Teams/1952-gb">Green Bay Packers</A> 35, <A HREF="/football/pro/results.nsf/Teams/1952-was">Washington Redskins</A> 20 at Milwaukee, WI<LI><A HREF="/football/pro/results.nsf/Teams/1952-nyg">New York Giants</A> 31, <A HREF="/football/pro/results.nsf/Teams/1952-phi">Philadelphia Eagles</A> 7<LI><A HREF="/football/pro/results.nsf/Teams/1952-sf">San Francisco 49ers</A> 37, <A HREF="/football/pro/results.nsf/Teams/1952-dal">Dallas Texans</A> 14
+</UL></td></tr>
+</table>
+<br>
+<br>
+<hr width="100%" size="5" align="left" noshade style="color:#000000; "><br>
+<i>Generated: </i><i>12/30/2002</i><br>
+<i>Football Site Owner: </i><a href="mailto:jtroan@jt-sw.com"><i>John Troan</i></a><br>
+</form>
+</body>
+</html>

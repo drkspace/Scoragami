@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>2013 -- Conference Championship</title>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/football/pro/results.nsf/Weeks/2013-conf?OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+
+<form action="">
+<table CELLPADDING=8 width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td width="13%" bgcolor="#E0F1FF"><div align="center"><b><BR>Site Pages</b><br>
+<a href="/football"><b><u><font color="#0000FF">Home</font></u></b></a><br>
+<a href="/football/site-contents.html"><b><u><font color="#0000FF">Contents</font></u></b></a><a href="/football/site-index.html"></a><br>
+<a href="/football/site-index.html"><b><u><font color="#0000FF">Index</font></u></b></a><br>
+<br>
+<hr width="95%" size="5" align="center" noshade style="color:#000080; "><br>
+<a href="/football/pro/results.nsf"><b><u>Games</u></b></a><br>
+<br>
+<hr width="95%" size="5" align="center" noshade style="color:#000080; "><br>
+<b>2013</b><br>
+<b><B></b><A HREF="/football/pro/standings.nsf/Seasons/2013">Standings</A><BR><A HREF="/football/pro/stats.nsf/By/Season?OpenDocument&Season=2013">Stats</A><BR><A HREF="/football/pro/rosters.nsf/By/Season?OpenDocument&Season=2013">Rosters</A><BR><A HREF="/football/pro/results.nsf/By/Season?OpenDocument&Season=2013">Games</A></B><br>
+<b><BR></b></div></td><td width="87%"><b><i><font size="6">2013 Conference Championship</font></i></b><br>
+<br>
+<UL>
+<LI><A HREF="/football/pro/results.nsf/Teams/2013-den">Denver Broncos</A> 26, <A HREF="/football/pro/results.nsf/Teams/2013-ne">New England Patriots</A> 16 -- <A HREF="/football/boxes/index.nsf/Games/2013-post-conf-ne-den">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2013-sea">Seattle Seahawks</A> 23, <A HREF="/football/pro/results.nsf/Teams/2013-sf">San Francisco 49ers</A> 17 -- <A HREF="/football/boxes/index.nsf/Games/2013-post-conf-sf-sea">Box Score</A>
+</UL></td></tr>
+</table>
+<br>
+<br>
+<hr width="100%" size="5" align="left" noshade style="color:#000000; "><br>
+<i>Generated: </i><i>12/26/2014</i><br>
+<i>Football Site Owner: </i><a href="mailto:jtroan@jt-sw.com"><i>John Troan</i></a><br>
+</form>
+</body>
+</html>

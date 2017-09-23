@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>1953 -- 9</title>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/football/pro/results.nsf/Weeks/1953-09?OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+
+<form action="">
+<table CELLPADDING=8 width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td width="13%" bgcolor="#E0F1FF"><div align="center"><b><BR>Site Pages</b><br>
+<a href="/football"><b><u><font color="#0000FF">Home</font></u></b></a><br>
+<a href="/football/site-contents.html"><b><u><font color="#0000FF">Contents</font></u></b></a><a href="/football/site-index.html"></a><br>
+<a href="/football/site-index.html"><b><u><font color="#0000FF">Index</font></u></b></a><br>
+<br>
+<hr width="95%" size="5" align="center" noshade style="color:#000080; "><br>
+<a href="/football/pro/results.nsf"><b><u>Games</u></b></a><br>
+<br>
+<hr width="95%" size="5" align="center" noshade style="color:#000080; "><br>
+<b>1953</b><br>
+<b><B></b><A HREF="/football/pro/standings.nsf/Seasons/1953">Standings</A><BR><A HREF="/football/pro/stats.nsf/By/Season?OpenDocument&Season=1953">Stats</A><BR><A HREF="/football/pro/rosters.nsf/By/Season?OpenDocument&Season=1953">Rosters</A><BR><A HREF="/football/pro/results.nsf/By/Season?OpenDocument&Season=1953">Games</A></B><br>
+<b><BR></b></div></td><td width="87%"><b><i><font size="6">1953 Week 9</font></i></b><br>
+<br>
+<UL>
+<LI><A HREF="/football/pro/results.nsf/Teams/1953-cle">Cleveland Browns</A> 20, <A HREF="/football/pro/results.nsf/Teams/1953-pit">Pittsburgh Steelers</A> 16<LI><A HREF="/football/pro/results.nsf/Teams/1953-det">Detroit Lions</A> 20, <A HREF="/football/pro/results.nsf/Teams/1953-chi">Chicago Bears</A> 16<LI><A HREF="/football/pro/results.nsf/Teams/1953-lam">Los Angeles Rams</A> 21, <A HREF="/football/pro/results.nsf/Teams/1953-bal">Baltimore Colts</A> 13<LI><A HREF="/football/pro/results.nsf/Teams/1953-phi">Philadelphia Eagles</A> 38, <A HREF="/football/pro/results.nsf/Teams/1953-chc">Chicago Cardinals</A> 0<LI><A HREF="/football/pro/results.nsf/Teams/1953-sf">San Francisco 49ers</A> 37, <A HREF="/football/pro/results.nsf/Teams/1953-gb">Green Bay Packers</A> 7 at Milwaukee, WI<LI><A HREF="/football/pro/results.nsf/Teams/1953-was">Washington Redskins</A> 24, <A HREF="/football/pro/results.nsf/Teams/1953-nyg">New York Giants</A> 21
+</UL></td></tr>
+</table>
+<br>
+<br>
+<hr width="100%" size="5" align="left" noshade style="color:#000000; "><br>
+<i>Generated: </i><i>12/30/2002</i><br>
+<i>Football Site Owner: </i><a href="mailto:jtroan@jt-sw.com"><i>John Troan</i></a><br>
+</form>
+</body>
+</html>

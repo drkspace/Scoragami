@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>2011 -- 1</title>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/football/pro/results.nsf/Weeks/2011-01?OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+
+<form action="">
+<table CELLPADDING=8 width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td width="13%" bgcolor="#E0F1FF"><div align="center"><b><BR>Site Pages</b><br>
+<a href="/football"><b><u><font color="#0000FF">Home</font></u></b></a><br>
+<a href="/football/site-contents.html"><b><u><font color="#0000FF">Contents</font></u></b></a><a href="/football/site-index.html"></a><br>
+<a href="/football/site-index.html"><b><u><font color="#0000FF">Index</font></u></b></a><br>
+<br>
+<hr width="95%" size="5" align="center" noshade style="color:#000080; "><br>
+<a href="/football/pro/results.nsf"><b><u>Games</u></b></a><br>
+<br>
+<hr width="95%" size="5" align="center" noshade style="color:#000080; "><br>
+<b>2011</b><br>
+<b><B></b><A HREF="/football/pro/standings.nsf/Seasons/2011">Standings</A><BR><A HREF="/football/pro/stats.nsf/By/Season?OpenDocument&Season=2011">Stats</A><BR><A HREF="/football/pro/rosters.nsf/By/Season?OpenDocument&Season=2011">Rosters</A><BR><A HREF="/football/pro/results.nsf/By/Season?OpenDocument&Season=2011">Games</A></B><br>
+<b><BR></b></div></td><td width="87%"><b><i><font size="6">2011 Week 1</font></i></b><br>
+<br>
+<UL>
+<LI><A HREF="/football/pro/results.nsf/Teams/2011-arz">Arizona Cardinals</A> 28, <A HREF="/football/pro/results.nsf/Teams/2011-car">Carolina Panthers</A> 21 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-car-arz">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-bal">Baltimore Ravens</A> 35, <A HREF="/football/pro/results.nsf/Teams/2011-pit">Pittsburgh Steelers</A> 7 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-pit-bal">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-buf">Buffalo Bills</A> 41, <A HREF="/football/pro/results.nsf/Teams/2011-kc">Kansas City Chiefs</A> 7 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-buf-kc">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-chi">Chicago Bears</A> 30, <A HREF="/football/pro/results.nsf/Teams/2011-atl">Atlanta Falcons</A> 12 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-atl-chi">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-cin">Cincinnati Bengals</A> 27, <A HREF="/football/pro/results.nsf/Teams/2011-cle">Cleveland Browns</A> 17 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-cin-cle">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-det">Detroit Lions</A> 27, <A HREF="/football/pro/results.nsf/Teams/2011-tb">Tampa Bay Buccaneers</A> 20 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-det-tb">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-gb">Green Bay Packers</A> 42, <A HREF="/football/pro/results.nsf/Teams/2011-no">New Orleans Saints</A> 34 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-no-gb">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-hou">Houston Texans</A> 34, <A HREF="/football/pro/results.nsf/Teams/2011-ind">Indianapolis Colts</A> 7 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-ind-hou">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-jac">Jacksonville Jaguars</A> 16, <A HREF="/football/pro/results.nsf/Teams/2011-ten">Tennessee Titans</A> 14 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-ten-jac">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-ne">New England Patriots</A> 38, <A HREF="/football/pro/results.nsf/Teams/2011-mia">Miami Dolphins</A> 24 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-ne-mia">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-nyj">New York Jets</A> 27, <A HREF="/football/pro/results.nsf/Teams/2011-dal">Dallas Cowboys</A> 24 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-dal-nyj">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-oak">Oakland Raiders</A> 23, <A HREF="/football/pro/results.nsf/Teams/2011-den">Denver Broncos</A> 20 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-oak-den">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-phi">Philadelphia Eagles</A> 31, <A HREF="/football/pro/results.nsf/Teams/2011-stl">St. Louis Rams</A> 13 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-phi-stl">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-sd">San Diego Chargers</A> 24, <A HREF="/football/pro/results.nsf/Teams/2011-min">Minnesota Vikings</A> 17 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-min-sd">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-sf">San Francisco 49ers</A> 33, <A HREF="/football/pro/results.nsf/Teams/2011-sea">Seattle Seahawks</A> 17 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-sea-sf">Box Score</A><LI><A HREF="/football/pro/results.nsf/Teams/2011-was">Washington Redskins</A> 28, <A HREF="/football/pro/results.nsf/Teams/2011-nyg">New York Giants</A> 14 -- <A HREF="/football/boxes/index.nsf/Games/2011-01-nyg-was">Box Score</A>
+</UL></td></tr>
+</table>
+<br>
+<br>
+<hr width="100%" size="5" align="left" noshade style="color:#000000; "><br>
+<i>Generated: </i><i>09/29/2012</i><br>
+<i>Football Site Owner: </i><a href="mailto:jtroan@jt-sw.com"><i>John Troan</i></a><br>
+</form>
+</body>
+</html>
