@@ -2,9 +2,7 @@ Scoragami
 
 To Run: 
 
-	python getNewScores.py year week
-
-	python chart.py
+	python run.py [year] [week]
 
 https://plot.ly/~drkspace/0.embed
 
