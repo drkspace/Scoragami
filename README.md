@@ -1,6 +1,8 @@
 Scoragami
 
-To Run: python getNewScores.py year week
+To Run: 
+
+	python getNewScores.py year week
 
 	python chart.py
 
