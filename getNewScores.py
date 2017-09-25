@@ -25,7 +25,8 @@ def getNew(year, week):
     scores = []
     game = nflgame.games(year, week)
     for i in game:
-        scores.append([str(year), str(week), teamNameConvert(i.away), str(i.score_away), teamNameConvert(i.home), str(i.score_home)])
+        if i.game_over():
+            scores.append([str(year), str(week), teamNameConvert(i.away), str(i.score_away), teamNameConvert(i.home), str(i.score_home)])
 
     #pprint(scores)
 

@@ -46,7 +46,7 @@ def chart():
     for i in hmap:
 
         if i[1]>i[0] or (i[0]==1 and i[1]<=1) or (i[1]==1 and i[0]<=7 and i[0]!=6):
-            hm_z[i[0]][i[1]] = -25
+            hm_z[i[0]][i[1]] = -1
             continue
 
 
@@ -63,6 +63,11 @@ def chart():
                     solid_z[i][k] = 0 #Need to change if a team scores 74
                     continue        
                 solid_z[i][k] = 100
+
+    for i in range(len(text)):
+        for k in range(len(text[i])):
+            if len(text[i][k])>3000:
+                text[i][k] = "Too many games"
 
     axis = [i for i in range(0,75)]
 
