@@ -95,5 +95,18 @@ def chart():
 
     py.plot(data2, filename="Solid Heatmap")
 
+    sums = []
+    for i in scores:
+         sum = i[0]+i[1]
+         while len(sums)-1 <= sum:
+             sums.append(0)
+         sums[sum]+=1
+
+    x = [i for i in range(len(sums))]
+
+    data3 = [go.Bar(x=x, y=sums)]
+
+    py.plot(data3, filename = "Score Sums")
+
 if __name__ == "__main__":
     chart()
